@@ -35,6 +35,11 @@ The dataset contains information on Netflix’s entire content catalog including
 
 ---
 
+## ▶️ Try it in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sukanyaghosh74/netflix-eda/blob/main/EDA%20analysis/NetflixEDA.ipynb)
+
+
 ## 🚀 Getting Started
 
 ### Clone the Repository
