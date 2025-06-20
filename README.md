@@ -2,7 +2,7 @@
 
 An insightful data science project that explores trends, patterns, and insights within Netflix's global content library. This project uses Python to uncover how content has evolved on Netflix over time — across genres, countries, and formats.
 
-![Netflix Banner](https://raw.githubusercontent.com/sukanyaghosh74/netflix-eda/main/images/banner.png)
+![Netflix Banner](sukanyaghosh74/netflix-eda/main/images/banner.png)
 
 ---
 
@@ -40,5 +40,5 @@ The dataset contains information on Netflix’s entire content catalog including
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/netflix-eda.git
+git clone https://github.com/sukanyaghosh74/netflix-eda.git
 cd netflix-eda
