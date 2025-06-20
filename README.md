@@ -2,7 +2,7 @@
 
 An insightful data science project that explores trends, patterns, and insights within Netflix's global content library. This project uses Python to uncover how content has evolved on Netflix over time — across genres, countries, and formats.
 
-![Netflix Banner](sukanyaghosh74/netflix-eda/main/images/banner.png)
+![Netflix Banner](main/images/banner.png)
 
 ---
 
